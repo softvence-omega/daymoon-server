@@ -64,7 +64,7 @@ const sendOTPViaEmail = async (payload: Partial<TUser>) => {
       This OTP will expire in 5 minutes. If you did not request this, please ignore this email.
     </p>
     <hr style="margin: 30px 0;" />
-    <p style="font-size: 12px; color: #999;">Thank you,<br/>M Team</p>
+    <p style="font-size: 12px; color: #999;">Thank you,<br/>Day Moon Design Team</p>
   </div>
 `;
 
